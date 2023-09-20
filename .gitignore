@@ -1,0 +1,12 @@
+x64/
+# Visual Studio files
+.vscode/
+.vs/
+/bin/
+/obj/
+*.suo
+*.user
+*.sln.docstates
+*.vcxproj
+*.vcxproj.filters
+*.sln
